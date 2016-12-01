@@ -12,7 +12,7 @@ var regexp = new RegExp("(?:" + fuckwords.join("|") + ")", "gi");
 
 ```javascript
 
-var fuckword2 = require('fuckword2);
+var fuckword2 = require('fuckword2');
 
 var word = "fuck";
 
