@@ -1,6 +1,6 @@
 {
   "name": "fuckword2",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "check illegal word in content",
   "main": "index.js",
   "scripts": {
