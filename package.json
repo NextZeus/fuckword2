@@ -10,6 +10,14 @@
     "fuckword",
     "word"
   ],
-  "author": "xiaodongli",
-  "license": "ISC"
+  "author": "xiaodong.li",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NextZeus/fuckword2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NextZeus/fuckword2/issues"
+  },
+  "homepage": "https://github.com/NextZeus/fuckword2#readme"
 }
