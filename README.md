@@ -1,5 +1,7 @@
 # check illegal word 检测非法词
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NextZeus/fuckword2.svg)](https://greenkeeper.io/)
+
 ### RegExp
 
 ```javascript
